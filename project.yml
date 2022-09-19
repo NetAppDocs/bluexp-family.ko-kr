@@ -2,7 +2,7 @@
 settings:
   name: Cloud Manager
   platform: cloud
-  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-aws,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-snapcenter,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-monitoring,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes
+  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-aws,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-snapcenter,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-monitoring,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes,cloud-manager-storagegrid,cloud-manager-e-series
   internal:
     pdf_enabled: true
   prod:
@@ -122,6 +122,11 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
     summary: 클라우드 컴퓨팅 지출에 대한 가시성을 확보하고 잠재적 절감을 파악하십시오.
     tags: all, compute, aws
+  - title: E-Series 시스템
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
+    summary: 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 볼 수 있는 E-Series 시스템에 대해 알아보십시오.
+    tags: all, storage
   - title: 글로벌 파일 캐시
     icon: "./media/icon-cache.png"
     url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
@@ -157,3 +162,8 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-snapcenter/index.html
     summary: 클라우드에서 애플리케이션 정합성이 보장되는 데이터 보호
     tags: all, protection
+  - title: StorageGRID
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html
+    summary: StorageGRID 시스템을 검색하고 관리합니다.
+    tags: all, storage
