@@ -71,7 +71,7 @@ product-family:
     icon: "./media/icon-api.png"
     url: https://docs.netapp.com/us-en/cloud-manager-automation/index.html
     summary: 클라우드 기반 리소스를 프로그래밍 방식으로 관리합니다.
-    tags: all, code
+    tags: all, code, automation
   - title: AppTemplate(애플리케이션 템플릿)
     icon: "./media/icon-app-template.png"
     url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
