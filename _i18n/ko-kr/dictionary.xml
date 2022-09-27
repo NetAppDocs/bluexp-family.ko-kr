@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="aeaeee19a7c393222e407a525cf01991" category="doc">NSS 계정을 추가합니다</block>
-  <block id="3c10116b37b407ac79092a38ffb292e4" category="paragraph">NetApp 기술 지원으로 지원 케이스를 생성하기 전에 NetApp Support 사이트 계정을 Cloud Manager에 추가한 다음 지원을 위해 등록해야 합니다.</block>
   <block id="de2241fea60d98698faaa196ff73ee80" category="paragraph">지원 대시보드를 이용하면 모든 NetApp Support 사이트 계정을 단일 위치에서 추가 및 관리할 수 있습니다.</block>
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
-  <block id="5be2593b5948f30a15179a32daa73ee2" category="inline-link">1인 등록</block>
-  <block id="14b05cf61f1aba58d38b393e69b69538" category="list-text">아직 NetApp Support 사이트 계정이 없는 경우<block ref="0a8e82436ea73fe635862cfba3acf101" category="inline-link-rx"></block>.</block>
   <block id="0046efb3377274ff3215d4b30269809e" category="list-text">Cloud Manager 콘솔의 오른쪽 상단에서 도움말 아이콘을 클릭하고 * 지원 * 을 선택합니다.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">도움말 메뉴의 스크린샷으로, 여기에서 지원은 첫 번째 옵션입니다</block>
   <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">NSS 관리 &gt; NSS 계정 추가 * 를 클릭합니다.</block>
   <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">메시지가 표시되면 * 계속 * 을 클릭하여 Microsoft 로그인 페이지로 리디렉션됩니다.</block>
   <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp은 Microsoft Azure Active Directory를 지원 및 라이선싱과 관련된 인증 서비스의 ID 공급자로 사용합니다.</block>
   <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">로그인 페이지에서 인증 프로세스를 수행할 수 있도록 NetApp Support 사이트의 등록 이메일 주소와 암호를 제공합니다.</block>
-  <block id="f5fb4199485234c409525f430b737010" category="paragraph">이 작업을 수행하면 Cloud Manager에서 NSS 계정을 사용할 수 있습니다.</block>
   <block id="fc65ebd4739f2f8ca46062a8280faea9" category="section-title">계정을 등록하여 지원을 받을 수 있습니다</block>
-  <block id="3e080914efe0d0ca025439fbb68d437f" category="paragraph">지원 등록은 지원 대시보드의 Cloud Manager에서 가능합니다.</block>
   <block id="fb07bf6b7698dbe934b8b2164d915484" category="list-text">Resources * 탭에서 * Register for Support * 를 클릭합니다.</block>
   <block id="392fb0270d0d84dbc3fdf8c67da1e5ad" category="list-text">등록할 NSS 자격 증명을 선택한 다음 * 등록 * 을 클릭합니다.</block>
   <block id="07d41912a6ab6b97216f8cf89e93205c" category="doc">자체 지원</block>
@@ -94,7 +88,6 @@
   <block id="dc21b082b0947a93d387b8c7e8f89ee5" category="sidebar">데이터 스토리지</block>
   <block id="396928510e06818ef017921022cce2af" category="sidebar">데이터 계층화</block>
   <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="b4c6a2f33e7b2a38495546b8d5cd8e84" category="paragraph">참고 계정은 고객 수준 계정이어야 합니다(게스트 또는 임시 계정이 아님).</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">위의 자체 지원 옵션 외에도 NetApp 지원 전문가와 협력하여 지원을 활성화한 이후의 모든 문제를 해결할 수 있습니다.</block>
   <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">지원 등록 방법을 알아보십시오</block>
   <block id="09651e14b46d7e8697d32de90d0deacb" category="paragraph">케이스 생성 * 기능을 사용하려면 먼저 Cloud Manager 계정 ID 일련 번호(예: 960xxxx) NetApp 포함 <block ref="3349e4b3d05f646f2f1421bee7c2ad26" category="inline-link-macro-rx"></block>.</block>
@@ -169,4 +162,23 @@
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">이 과정에서 NetApp이 연락을 드릴 것입니다. 신규 사용자를 위한 일회성 온보딩 연습입니다.</block>
   <block id="c20be1a85a79c4a363a755833088b7c7" category="paragraph">NetApp Support 사이트 계정이 있으면 Cloud Manager로 이동하여 향후 등록을 위해 이 NSS 계정을 추가할 수 있습니다. 위 단계를 완료하는 데 2시간 이상 걸릴 수 있습니다.</block>
   <block id="66c610a2428a932315e5fb622c39f100" category="paragraph">NSS 계정을 Cloud Manager에 추가한 후에는 지원 대시보드의 Cloud Manager에서 지원을 등록할 수 있습니다.</block>
+  <block id="98bc603dcb6d5a57d540b13b541fa41a" category="paragraph">등록 방법은 신규 고객인지, 기존 고객인지 또는 파트너인지에 따라 다릅니다.</block>
+  <block id="60791d56f45a3f9f1287510b65d323df" category="paragraph">기존 NetApp 고객 또는 파트너는 NSS(NetApp Support 사이트) SSO 계정을 사용하여 위에서 이러한 등록을 수행할 수 있습니다. 지원 대시보드에서 Cloud Manager는 NSS 계정을 추가할 수 있는 * NSS 관리 * 페이지를 제공합니다. NSS 계정을 추가하면 Cloud Manager에서 자동으로 이러한 일련 번호를 등록합니다.</block>
+  <block id="32e82838df6d3ab4de32d996ebbe98cd" category="paragraph"><block ref="27c44e31a17502f2e9a25a83f2f37696" category="inline-xref-macro-rx"></block>.</block>
+  <block id="00fc9d0c515c69ea2c368521453d982e" category="inline-xref">NetApp에 등록하는 방법을 알아보십시오</block>
+  <block id="97454ce87333f7ebd50ee38b8126fb39" category="paragraph"><block ref="37544f11913357c4e8c8a4ec607ae247" category="inline-xref-macro-rx"></block>.</block>
+  <block id="ad56c7289bc13dcf4f78c285f7f03878" category="section-title">NetApp에 등록</block>
+  <block id="f1bac79c2c71fbd93863b9fbd718094c" category="paragraph">NetApp 지원에 등록하는 방법은 NetApp Support 사이트(NSS) 계정이 이미 있는지 여부에 따라 다릅니다.</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">NSS 계정이 있는 기존 고객</block>
+  <block id="d4b6092976537c153c496a428098980c" category="paragraph">NSS 계정을 가진 NetApp 고객은 Cloud Manager를 통해 지원을 위해 등록하기만 하면 됩니다.</block>
+  <block id="c9d4df035d54072bb393bd27f6769cc7" category="list-text">아직 추가하지 않은 경우 NSS 계정을 Cloud Manager에 추가합니다.</block>
+  <block id="819aff12752b7e6a1828e755c7664de7" category="list-text">Resources * 페이지에서 * Register for Support * 를 클릭합니다.</block>
+  <block id="e8a3d9970b8fc1d92caaf33d9e116bd4" category="inline-image-macro">계정 일련 번호 및 지원 등록 옵션을 보여 주는 스크린샷</block>
+  <block id="113f9cd7bac6f4faa6b8d58e3e099a8e" category="paragraph"><block ref="113f9cd7bac6f4faa6b8d58e3e099a8e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">기존 고객이지만 NSS 계정은 없습니다</block>
+  <block id="cc1d3c161bcf25e6445c2fc771647849" category="paragraph">기존 사용권 및 제품 번호를 가지고 있지만 _NO_NSS 계정을 가지고 있는 기존 NetApp 고객은 NSS 계정을 만들어야 합니다.</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">를 완료하여 NetApp Support 사이트 계정을 생성합니다<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp이 처음이었습니다</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">NetApp의 새로운 브랜드이고 NSS 계정이 없는 경우 아래의 각 단계를 수행하십시오.</block>
+  <block id="cc7175a084ebd6e004cb2c751c162569" category="paragraph">NetApp Support 사이트 계정이 있으면 Cloud Manager로 이동하여 향후 등록을 위해 이 NSS 계정을 추가할 수 있습니다.</block>
 </blocks>
