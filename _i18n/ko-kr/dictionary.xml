@@ -188,4 +188,6 @@
   <block id="b4f83b03956523a39e8bbbd0895f0f29" category="sidebar">Cloud Insights</block>
   <block id="c50b91dc494c1ae78bb56ca7f5fb13a9" category="sidebar">클라우드 워크로드의 성능과 활용률을 제어합니다.</block>
   <block id="19874606c485ce682436c45308e50186" category="sidebar">시스템 관리자 및 BlueXP의 데이터 서비스를 사용하여 BlueXP에서 NetApp AFF 및 FAS 시스템을 관리하십시오.</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">시작하기 전에</block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">작업을 마친 후</block>
 </blocks>
