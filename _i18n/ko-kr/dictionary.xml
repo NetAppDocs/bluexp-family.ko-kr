@@ -48,7 +48,6 @@
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes 클러스터</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">하이브리드 클라우드의 Kubernetes 클러스터의 고급 데이터 관리</block>
   <block id="d0f1687c68ee0f0d9bac765716d18923" category="sidebar">온프레미스 ONTAP 클러스터</block>
-  <block id="b7a3a3d6e3a875d91556459f1c471d33" category="sidebar">하이브리드 클라우드 전반에서 NetApp AFF 및 FAS 시스템을 관리할 수 있습니다.</block>
   <block id="950604af87c30e09716e6d097eb491db" category="sidebar">랜섬웨어 보호</block>
   <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">사이버 공격에 대한 데이터 복원성 평가</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">복제</block>
@@ -188,4 +187,5 @@
   <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">BlueXP의 작업을 자동화하여 프로비저닝 속도를 높이고 수동 작업을 제거합니다.</block>
   <block id="b4f83b03956523a39e8bbbd0895f0f29" category="sidebar">Cloud Insights</block>
   <block id="c50b91dc494c1ae78bb56ca7f5fb13a9" category="sidebar">클라우드 워크로드의 성능과 활용률을 제어합니다.</block>
+  <block id="19874606c485ce682436c45308e50186" category="sidebar">시스템 관리자 및 BlueXP의 데이터 서비스를 사용하여 BlueXP에서 NetApp AFF 및 FAS 시스템을 관리하십시오.</block>
 </blocks>
