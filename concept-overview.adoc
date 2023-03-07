@@ -40,12 +40,14 @@ image:screenshot-navigation-menu.png["스토리지 및 상태 등의 범주를 �
 
 == 새로운 제품 통합
 
+* 이제 Connector가 설치된 AWS 계정에서 Amazon S3 버킷을 관리할 수 있습니다.
 * 이제 E-Series와 StorageGRID와 같은 사내 스토리지 시스템을 더 많이 관리할 수 있습니다.
 * 이제 이전에는 디지털 자문(이전의 Active IQ)과 같은 별도의 UI를 통해 독립 실행형 서비스로만 제공되던 데이터 서비스를 사용할 수 있습니다.
 
 
 * 자세히 알아보기 *
 
+* https://docs.netapp.com/us-en/bluexp-s3-storage/index.html["Amazon S3 버킷을 관리합니다"^]
 * https://docs.netapp.com/us-en/cloud-manager-e-series/index.html["E-Series 스토리지 시스템을 관리합니다"^]
 * https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html["StorageGRID 스토리지 시스템을 관리합니다"^]
 * https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html["Digital Advisor 통합에 대해 알아보십시오"^]
