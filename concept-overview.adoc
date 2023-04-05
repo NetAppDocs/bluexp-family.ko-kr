@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: concept-overview.html 
 keywords: overview, bluexp, integration, cloud manager, digital advisor, active iq, menu 
-summary: Cloud Manager는 현재 BlueXP입니다. BlueXP를 사용하면 단일 제어 플레인에서 하이브리드 멀티 클라우드 데이터를 구축, 보호 및 관리할 수 있습니다. 
+summary: NetApp BlueXP는 Cloud Manager의 발전입니다. BlueXP는 사내 및 클라우드 환경 전반에 걸쳐 스토리지 및 데이터 서비스를 위한 하이브리드 멀티 클라우드 환경을 제공하는 통합 제어 플레인입니다. 
 ---
 = NetApp BlueXP를 사용해 주셔서 감사합니다
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Cloud Manager는 현재 BlueXP입니다. BlueXP를 사용하면 단일 
 
 
 [role="lead"]
-이제 Cloud Manager를 BlueXP라고 합니다. BlueXP를 사용하면 단일 제어 플레인에서 하이브리드 멀티 클라우드 데이터를 구축, 보호 및 관리할 수 있습니다.
+NetApp BlueXP는 Cloud Manager의 발전입니다. BlueXP는 사내 및 클라우드 환경 전반에 걸쳐 스토리지 및 데이터 서비스를 위한 하이브리드 멀티 클라우드 환경을 제공하는 통합 제어 플레인입니다.
 
 
 

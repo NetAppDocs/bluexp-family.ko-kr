@@ -44,7 +44,6 @@
   <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">분산된 인력을 위해 글로벌 파일을 실시간으로 공유할 수 있습니다.</block>
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes 클러스터</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">하이브리드 클라우드의 Kubernetes 클러스터의 고급 데이터 관리</block>
-  <block id="d0f1687c68ee0f0d9bac765716d18923" category="sidebar">온프레미스 ONTAP 클러스터</block>
   <block id="950604af87c30e09716e6d097eb491db" category="sidebar">랜섬웨어 보호</block>
   <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">사이버 공격에 대한 데이터 복원성 평가</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">복제</block>
@@ -107,9 +106,7 @@
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp이 처음이었습니다</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">NetApp의 새로운 브랜드이고 NSS 계정이 없는 경우 아래의 각 단계를 수행하십시오.</block>
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">고객 수준 계정이 있는 경우 하나 이상의 NSS 계정을 추가할 수 있습니다.</block>
-  <block id="fd4eb119039df77c719a1f46167399a3" category="summary">Cloud Manager는 현재 BlueXP입니다. BlueXP를 사용하면 단일 제어 플레인에서 하이브리드 멀티 클라우드 데이터를 구축, 보호 및 관리할 수 있습니다.</block>
   <block id="a0d9a83eb0552b7cc89c8d441a15ede1" category="doc">NetApp BlueXP를 사용해 주셔서 감사합니다</block>
-  <block id="d1fe59ef952debed99ffc7ccaaa00a70" category="paragraph">이제 Cloud Manager를 BlueXP라고 합니다. BlueXP를 사용하면 단일 제어 플레인에서 하이브리드 멀티 클라우드 데이터를 구축, 보호 및 관리할 수 있습니다.</block>
   <block id="4860911c5c67c5e04987564884e8b85e" category="section-title">통합된 관리 환경</block>
   <block id="c3eb39b445a75ad05505fe32c6f061df" category="paragraph">BlueXP를 사용하면 단일 인터페이스에서 모든 스토리지 및 데이터 자산을 관리할 수 있습니다.</block>
   <block id="e2f4ed3372452716e062769cee896707" category="paragraph">BlueXP를 사용하여 클라우드 스토리지(예: Cloud Volumes ONTAP 및 Azure NetApp Files)를 생성 및 관리하고, 데이터 서비스(예: 클라우드 백업 및 클라우드 데이터 감지)를 사용하고, 여러 온프레미스 및 에지 스토리지 장치를 제어할 수 있습니다.</block>
@@ -131,7 +128,6 @@
   <block id="d694b62f00b305ea3d15052a9af4e461" category="list-text"><block ref="d694b62f00b305ea3d15052a9af4e461" category="inline-link-rx"></block></block>
   <block id="f3bb3ec21babd88d81e5f7aefe69cced" category="inline-link">Digital Advisor 통합에 대해 알아보십시오</block>
   <block id="fd93e0ac3cede5691afd22e4d95042e3" category="list-text"><block ref="fd93e0ac3cede5691afd22e4d95042e3" category="inline-link-rx"></block></block>
-  <block id="8adbcfd0f4d060d9e017dc7374ce832e" category="summary">BlueXP(이전의 Cloud Manager)는 IT 전문가 및 클라우드 설계자에게 하이브리드 멀티 클라우드 환경에서 데이터를 관리, 모니터링 및 자동화할 수 있는 중앙 집중식 제어 수단을 제공합니다. 제품 영역별로 문서를 검색하거나 위의 검색을 사용하여 BlueXP 문서의 모든 위치에서 콘텐츠를 찾을 수 있습니다.</block>
   <block id="eeb8e055593f1709925a03e2ebb13265" category="doc">BlueXP 설명서</block>
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp은 다양한 방법으로 BlueXP 및 클라우드 서비스를 지원합니다. 기술 자료(KB) 기사 및 커뮤니티 포럼과 같은 광범위한 무료 셀프 지원 옵션이 24x7 제공됩니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
   <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">문제를 해결하는 데 도움이 되는 문서를 찾으려면 BlueXP 기술 자료를 검색하십시오.</block>
@@ -242,4 +238,7 @@
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">현재 또는 예상 용량이 낮은 클러스터를 식별하고 데이터 계층화 또는 추가 용량 권장 사항을 구현합니다.</block>
   <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">운영 복원력</block>
   <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">ONTAP 클러스터의 상태를 유지하기 위해 자동 펌웨어 및 소프트웨어 구성 위험 수정 기능을 구현합니다.</block>
+  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP는 사내 및 클라우드 환경 전반에서 데이터를 구축, 보호, 제어할 수 있는 단일 제어 수단을 조직에 제공합니다. 제품 영역별로 문서를 검색하거나 위의 검색을 사용하여 BlueXP 문서의 모든 위치에서 콘텐츠를 찾을 수 있습니다.</block>
+  <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXP는 Cloud Manager의 발전입니다. BlueXP는 사내 및 클라우드 환경 전반에 걸쳐 스토리지 및 데이터 서비스를 위한 하이브리드 멀티 클라우드 환경을 제공하는 통합 제어 플레인입니다.</block>
+  <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">온프레미스 ONTAP 클러스터</block>
 </blocks>
