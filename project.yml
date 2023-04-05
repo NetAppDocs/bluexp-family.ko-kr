@@ -43,7 +43,7 @@ product-family:
     summary: BlueXP의 소개에 대해 자세히 알아보십시오.
     tags: all
   - title: 설정 및 관리
-    icon: "./media/icon-docs.png"
+    icon: "./media/icon-admin.png"
     url: https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html
     summary: BlueXP 사용을 시작하고 커넥터, 계정 등을 관리하는 방법에 대해 알아보십시오.
     tags: all, admin
@@ -128,7 +128,7 @@ product-family:
     tags: all, health
     summary: 최적의 스토리지 상태를 위해 실행 가능한 인텔리전스
   - title: E-Series 시스템
-    icon: "./media/icon-onprem.png"
+    icon: "./media/icon-e-series.png"
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
     summary: 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 볼 수 있는 E-Series 시스템에 대해 알아보십시오.
     tags: all, storage
@@ -168,7 +168,7 @@ product-family:
     summary: 스토리지 시스템 간에 데이터를 복제하여 백업 및 재해 복구 지원
     tags: all, protection
   - title: StorageGRID
-    icon: "./media/icon-onprem.png"
+    icon: "./media/icon-storagegrid.png"
     url: https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html
     summary: StorageGRID 시스템을 검색하고 관리합니다.
     tags: all, storage
