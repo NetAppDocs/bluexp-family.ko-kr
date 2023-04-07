@@ -15,7 +15,6 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 정보</block>
   <block id="8e5adb4723e04a1f9bf2ea7df2c5e684" category="sidebar">커넥터 및 계정</block>
   <block id="a623a8d0366bf079411aa30be45b2d10" category="sidebar">컴퓨팅</block>
-  <block id="30b77b282030e8985671bcc89e3e4d74" category="sidebar">설정 및 관리</block>
   <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">최적의 스토리지 상태를 위해 실행 가능한 인텔리전스</block>
   <block id="18cf072964a583150dd247485ba75b92" category="sidebar">ONTAP용 Amazon FSx</block>
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">ONTAP의 모든 기능을 AWS로 관리하는 네이티브 서비스로 사용하십시오.</block>
@@ -241,4 +240,5 @@
   <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXP는 Cloud Manager의 발전입니다. BlueXP는 사내 및 클라우드 환경 전반에 걸쳐 스토리지 및 데이터 서비스를 위한 하이브리드 멀티 클라우드 환경을 제공하는 통합 제어 플레인입니다.</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">온프레미스 ONTAP 클러스터</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">설정 및 관리</block>
 </blocks>
