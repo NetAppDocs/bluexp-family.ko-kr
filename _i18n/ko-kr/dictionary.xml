@@ -241,4 +241,6 @@
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">온프레미스 ONTAP 클러스터</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">설정 및 관리</block>
+  <block id="986e1f3279b4d74444bd32d4f833afbd" category="sidebar">디지털 지갑</block>
+  <block id="5928ade999566a2ca0d839d3c191b3f1" category="sidebar">라이센스 및 구독을 관리 및 모니터링합니다.</block>
 </blocks>

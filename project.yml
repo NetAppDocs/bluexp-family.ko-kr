@@ -127,6 +127,11 @@ product-family:
     url: https://docs.netapp.com/us-en/active-iq/index.html
     tags: all, health
     summary: 최적의 스토리지 상태를 위해 실행 가능한 인텔리전스
+  - title: 디지털 지갑
+    icon: "./media/digital-wallet.png"
+    url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
+    tags: all, governance
+    summary: 라이센스 및 구독을 관리 및 모니터링합니다.
   - title: E-Series 시스템
     icon: "./media/icon-e-series.png"
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
