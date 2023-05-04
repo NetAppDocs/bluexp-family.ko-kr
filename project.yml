@@ -2,7 +2,7 @@
 settings:
   name: BlueXP
   platform: cloud
-  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-aws,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes,cloud-manager-storagegrid,cloud-manager-e-series,bluexp-s3-storage
+  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes,cloud-manager-storagegrid,cloud-manager-e-series,bluexp-s3-storage,bluexp-economic-efficiency,bluexp-operational-resiliency,bluexp-digital-wallet
   internal:
     pdf_enabled: false
   prod:
@@ -92,11 +92,6 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
     summary: 클라우드 스토리지를 보다 경제적이고, 지능적이며, 규정을 준수하고, 안전하게 보호하십시오.
     tags: all, storage, aws, azure, gcp
-  - title: AWS 환경을 위한 Cloud Volumes Service
-    icon: "./media/icon-cvs.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-aws/index.html
-    summary: All-Flash 성능을 지원하는 클라우드 네이티브 파일 서비스
-    tags: all, storage, aws
   - title: Google Cloud용 Cloud Volumes Service
     icon: "./media/icon-cvs.png"
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/index.html
