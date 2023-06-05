@@ -130,6 +130,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
     summary: 하이브리드 클라우드의 Kubernetes 클러스터의 고급 데이터 관리
     tags: all,storage,aws,azure
+  - title: 마이그레이션 보고서
+    icon: "./media/icon-reports.png"
+    url: https://docs.netapp.com/us-en/bluexp-reports/index.html
+    summary: 스토리지 환경에서 파일 수, 파일 시스템 트리의 깊이 및 폭, 가장 큰 파일 등을 식별합니다.
+    tags: all,storage
   - title: 온프레미스 ONTAP 클러스터
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html
