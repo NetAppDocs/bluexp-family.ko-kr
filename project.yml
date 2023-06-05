@@ -65,6 +65,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-automation/index.html
     summary: 클라우드 기반 리소스를 프로그래밍 방식으로 관리합니다.
     tags: all,api
+  - title: Azure Blob 저장소
+    icon: "./media/icon-azure-blob.png"
+    url: https://docs.netapp.com/us-en/bluexp-blob-storage/index.html
+    summary: Azure 구독에서 Azure Blob 저장소를 검색하고 관리할 수 있습니다.
+    tags: all,storage
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
     url: https://docs.netapp.com/us-en/bluexp-azure-netapp-files/index.html
