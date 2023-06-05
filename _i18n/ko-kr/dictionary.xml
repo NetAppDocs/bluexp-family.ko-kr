@@ -243,4 +243,6 @@
   <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">이 오류는 NSS 계정과 연결된 레코드 회사가 BlueXP 계정 일련 번호( 960xxxx) 또는 작동 환경 일련 번호 다음 옵션 중 하나를 사용하여 지원을 요청할 수 있습니다.</block>
   <block id="ac7b3cf10ea08c788a374e0291742517" category="sidebar">마이그레이션 보고서</block>
   <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">스토리지 환경에서 파일 수, 파일 시스템 트리의 깊이 및 폭, 가장 큰 파일 등을 식별합니다.</block>
+  <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">볼륨 캐싱</block>
+  <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">쓰기 가능한 캐시 볼륨을 생성하여 데이터 액세스 속도를 높이거나 자주 액세스하는 볼륨에서 트래픽을 오프로드합니다.</block>
 </blocks>
