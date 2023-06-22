@@ -247,4 +247,6 @@
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">쓰기 가능한 캐시 볼륨을 생성하여 데이터 액세스 속도를 높이거나 자주 액세스하는 볼륨에서 트래픽을 오프로드합니다.</block>
   <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Azure Blob 저장소</block>
   <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">Azure 구독에서 Azure Blob 저장소를 검색하고 관리할 수 있습니다.</block>
+  <block id="072d1a387472fb47fdfa33e48ff08ffd" category="sidebar">Sustainability 대시보드</block>
+  <block id="bc955e300c1eb565285b1d3030f79321" category="sidebar">스토리지 시스템의 지속 가능성을 분석합니다.</block>
 </blocks>
