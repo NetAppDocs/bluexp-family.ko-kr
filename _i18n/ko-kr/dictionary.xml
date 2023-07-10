@@ -249,4 +249,6 @@
   <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">Azure 구독에서 Azure Blob 저장소를 검색하고 관리할 수 있습니다.</block>
   <block id="072d1a387472fb47fdfa33e48ff08ffd" category="sidebar">Sustainability 대시보드</block>
   <block id="b6ec628f73e9b33a6ae94b2c3ef2879b" category="sidebar">스토리지 시스템의 지속 가능성을 분석합니다.</block>
+  <block id="833c2c211a541e50ad94433664e4b5c1" category="sidebar">Google 클라우드 스토리지</block>
+  <block id="195aba5a6e7c41123fc8903b34a99aeb" category="sidebar">Google 계정에서 클라우드 스토리지 버킷 검색 및 관리</block>
 </blocks>
