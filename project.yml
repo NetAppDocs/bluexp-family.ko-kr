@@ -119,7 +119,7 @@ product-family:
   - title: 재해 복구
     icon: "./media/icon-disaster-recovery.png"
     url: https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html
-    tags: all, protection
+    tags: all,protection
     summary: Amazon FSx for ONTAP의 VMware Cloud를 재해 복구 사이트로 사용하여 온프레미스 VMware 워크로드를
       보호합니다.
   - title: E-Series 시스템
