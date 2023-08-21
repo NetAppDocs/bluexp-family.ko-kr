@@ -251,4 +251,6 @@
   <block id="d889e6e7cc4c5509ab5b37f8fc894e46" category="list-text">BlueXP 콘솔의 오른쪽 상단에서 도움말 아이콘을 선택하고 * 지원 * 을 선택합니다.</block>
   <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">NSS 관리 &gt; NSS 계정 추가 * 를 선택합니다.</block>
   <block id="85b9386ed443776127e099931d73448a" category="list-text">메시지가 표시되면 * 계속 * 을 선택하여 Microsoft 로그인 페이지로 리디렉션합니다.</block>
+  <block id="645a84975202e30700b572b49a5ee29d" category="sidebar">재해 복구</block>
+  <block id="c7b1fe992423d57d0e492585ff631c02" category="sidebar">Amazon FSx for ONTAP의 VMware Cloud를 재해 복구 사이트로 사용하여 온프레미스 VMware 워크로드를 보호합니다.</block>
 </blocks>

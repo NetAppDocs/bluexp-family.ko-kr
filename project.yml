@@ -116,6 +116,12 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
     tags: all,governance
     summary: 라이센스 및 구독을 관리 및 모니터링합니다.
+  - title: 재해 복구
+    icon: "./media/icon-disaster-recovery.png"
+    url: https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html
+    tags: all, protection
+    summary: Amazon FSx for ONTAP의 VMware Cloud를 재해 복구 사이트로 사용하여 온프레미스 VMware 워크로드를
+      보호합니다.
   - title: E-Series 시스템
     icon: "./media/icon-e-series.png"
     url: https://docs.netapp.com/us-en/bluexp-e-series/index.html
