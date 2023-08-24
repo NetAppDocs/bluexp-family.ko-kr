@@ -184,7 +184,7 @@ product-family:
     tags: all,storage
   - title: Sustainability 대시보드
     icon: "./media/icon-sustainability.png"
-    url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
+    url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
     summary: 스토리지 시스템의 지속 가능성을 분석합니다.
     tags: all,governance
   - title: 계층화(Cloud Tiering)
