@@ -31,7 +31,6 @@
   <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">분산된 인력을 위해 글로벌 파일을 실시간으로 공유할 수 있습니다.</block>
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes 클러스터</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">하이브리드 클라우드의 Kubernetes 클러스터의 고급 데이터 관리</block>
-  <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">사이버 공격에 대한 데이터 복원성 평가</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">복제</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">스토리지 시스템 간에 데이터를 복제하여 백업 및 재해 복구 지원</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">모두</block>
@@ -179,7 +178,6 @@
   <block id="457d79994b70adbf238bafd0fea18cb2" category="sidebar">디지털 자문업체(Active IQ)</block>
   <block id="2049421a4e8e45e83cd7cf18ffc00a12" category="sidebar">디지털 지갑</block>
   <block id="283a34872fecedd9a307e184eaf214e5" category="sidebar">에지 캐싱(글로벌 파일 캐시)</block>
-  <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">랜섬웨어 보호</block>
   <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">개선(AppTemplate)</block>
   <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">계층화(Cloud Tiering)</block>
   <block id="75d46f12940616f043309dfb109d814d" category="paragraph">BlueXP의 탐색 메뉴에서 서비스는 범주별로 구성되며 기능에 따라 이름이 지정됩니다. 예를 들어 * Protection * 범주에서 BlueXP 백업 및 복구(Cloud Backup)에 액세스할 수 있습니다.</block>
@@ -253,4 +251,6 @@
   <block id="85b9386ed443776127e099931d73448a" category="list-text">메시지가 표시되면 * 계속 * 을 선택하여 Microsoft 로그인 페이지로 리디렉션합니다.</block>
   <block id="645a84975202e30700b572b49a5ee29d" category="sidebar">재해 복구</block>
   <block id="c7b1fe992423d57d0e492585ff631c02" category="sidebar">Amazon FSx for ONTAP의 VMware Cloud를 재해 복구 사이트로 사용하여 온프레미스 VMware 워크로드를 보호합니다.</block>
+  <block id="d7a02621d52c29a3c5f7895e817cba5b" category="sidebar">자동화 카탈로그</block>
+  <block id="5d880ed9e8bc81eec72f5edb5332637d" category="sidebar">스크립트된 솔루션을 사용하여 NetApp 제품 및 서비스의 배포 및 통합을 자동화합니다.</block>
 </blocks>
