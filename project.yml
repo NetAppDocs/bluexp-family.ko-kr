@@ -63,12 +63,12 @@ product-family:
     tags: all,storage,aws
   - title: API를 참조하십시오
     icon: "./media/icon-api.png"
-    url: "../bluexp-automation/index.html"
+    url: https://docs.netapp.com/us-en/bluexp-automation/index.html
     summary: 클라우드 기반 리소스를 프로그래밍 방식으로 관리합니다.
     tags: all,api
   - title: 자동화 카탈로그
     icon: "./media/icon-api.png"
-    url: "../netapp-automation/solutions/bac-overview.html"
+    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: 스크립트된 솔루션을 사용하여 NetApp 제품 및 서비스의 배포 및 통합을 자동화합니다.
     tags: all,governance
   - title: Azure Blob 저장소
