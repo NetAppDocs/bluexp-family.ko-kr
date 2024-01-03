@@ -43,157 +43,157 @@ product-family:
     tags: all
   - title: 설정 및 관리
     icon: "./media/icon-admin.png"
-    url: https://docs.netapp.com/us-en/bluexp-setup-admin/index.html
+    url: "../bluexp-setup-admin/index.html"
     summary: BlueXP 사용을 시작하고 커넥터, 계정 등을 관리하는 방법에 대해 알아보십시오.
     tags: all,admin
   - title: 릴리스 정보
     icon: "./media/icon-docs.png"
-    url: https://docs.netapp.com/us-en/bluexp-relnotes/index.html
+    url: "../bluexp-relnotes/index.html"
     summary: 모든 BlueXP의 새로운 기능에 대해 알아보십시오.
     tags: all
   - title: NetApp ONTAP용 Amazon FSx
     icon: "./media/icon-fsx.png"
-    url: https://docs.netapp.com/us-en/bluexp-fsx-ontap/index.html
+    url: "../bluexp-fsx-ontap/index.html"
     summary: ONTAP의 모든 기능을 AWS로 관리하는 네이티브 서비스로 사용하십시오.
     tags: all,storage,aws
   - title: Amazon S3 스토리지
     icon: "./media/icon-s3.png"
-    url: https://docs.netapp.com/us-en/bluexp-s3-storage/index.html
+    url: "../bluexp-s3-storage/index.html"
     summary: AWS 계정에서 Amazon S3 버킷을 검색하고 관리합니다.
     tags: all,storage,aws
   - title: API를 참조하십시오
     icon: "./media/icon-api.png"
-    url: https://docs.netapp.com/us-en/bluexp-automation/index.html
+    url: "../bluexp-automation/index.html"
     summary: 클라우드 기반 리소스를 프로그래밍 방식으로 관리합니다.
     tags: all,api
   - title: 자동화 카탈로그
     icon: "./media/icon-api.png"
-    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
+    url: "../netapp-automation/solutions/bac-overview.html"
     summary: 스크립트된 솔루션을 사용하여 NetApp 제품 및 서비스의 배포 및 통합을 자동화합니다.
     tags: all,governance
   - title: Azure Blob 저장소
     icon: "./media/icon-azure-blob.png"
-    url: https://docs.netapp.com/us-en/bluexp-blob-storage/index.html
+    url: "../bluexp-blob-storage/index.html"
     summary: Azure 구독에서 Azure Blob 저장소를 검색하고 관리할 수 있습니다.
     tags: all,storage
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
-    url: https://docs.netapp.com/us-en/bluexp-azure-netapp-files/index.html
+    url: "../bluexp-azure-netapp-files/index.html"
     summary: 핵심 비즈니스 애플리케이션을 위한 고성능 파일 스토리지 서비스입니다.
     tags: all,storage,azure
   - title: 백업 및 복구(Cloud Backup)
     icon: "./media/icon-backup.png"
-    url: https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html
+    url: "../bluexp-backup-recovery/index.html"
     summary: 클라우드 및 온프레미스 데이터 백업 및 복원
     tags: all,aws,azure,gcp,protection
   - title: 분류(클라우드 데이터 감지)
     icon: "./media/icon-data-sense.png"
-    url: https://docs.netapp.com/us-en/bluexp-classification/index.html
+    url: "../bluexp-classification/index.html"
     summary: 애플리케이션 데이터 및 클라우드 환경의 개인 정보를 보호합니다.
     tags: all,governance,aws,azure,gcp
   - title: 클라우드 운영(컴퓨팅)
     icon: "./media/icon-compute.png"
-    url: https://docs.netapp.com/us-en/bluexp-cloud-ops/index.html
+    url: "../bluexp-cloud-ops/index.html"
     summary: 클라우드 컴퓨팅 지출에 대한 가시성을 확보하고 잠재적 절감을 파악하십시오.
     tags: all,aws,extension
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
-    url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html
+    url: "../bluexp-cloud-volumes-ontap/index.html"
     summary: 클라우드 스토리지를 보다 경제적이고, 지능적이며, 규정을 준수하고, 안전하게 보호하십시오.
     tags: all,storage,aws,azure,gcp
   - title: Google Cloud용 Cloud Volumes Service
     icon: "./media/icon-cvs.png"
-    url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-service-gcp/index.html
+    url: "../bluexp-cloud-volumes-service-gcp/index.html"
     summary: 파일 스토리지를 보호하고 속도를 높이십시오.
     tags: all,storage,gcp
   - title: 복사 및 동기화(Cloud Sync)
     icon: "./media/icon-sync.png"
-    url: https://docs.netapp.com/us-en/bluexp-copy-sync/index.html
+    url: "../bluexp-copy-sync/index.html"
     summary: 온프레미스 및 클라우드 데이터 저장소 간에 데이터를 동기화합니다.
     tags: all,aws,azure,gcp,mobility
   - title: 디지털 자문업체(Active IQ)
     icon: "./media/icon-activeiq.png"
-    url: https://docs.netapp.com/us-en/active-iq/index.html
+    url: "../active-iq/index.html"
     tags: all,health
     summary: 최적의 스토리지 상태를 위해 실행 가능한 인텔리전스
   - title: 디지털 지갑
     icon: "./media/digital-wallet.png"
-    url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
+    url: "../bluexp-digital-wallet/index.html"
     tags: all,governance
     summary: 라이센스 및 구독을 관리 및 모니터링합니다.
   - title: 재해 복구
     icon: "./media/icon-disaster-recovery.png"
-    url: https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html
+    url: "../bluexp-disaster-recovery/index.html"
     tags: all,protection
     summary: Amazon FSx for ONTAP의 VMware Cloud를 재해 복구 사이트로 사용하여 온프레미스 VMware 워크로드를
       보호합니다.
   - title: E-Series 시스템
     icon: "./media/icon-e-series.png"
-    url: https://docs.netapp.com/us-en/bluexp-e-series/index.html
+    url: "../bluexp-e-series/index.html"
     summary: 하이브리드 멀티 클라우드 전체의 데이터를 완벽하게 볼 수 있는 E-Series 시스템에 대해 알아보십시오.
     tags: all,storage
   - title: 경제적인 효율성
     icon: "./media/icon-economic-efficiency.png"
-    url: https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html
+    url: "../bluexp-economic-efficiency/index.html"
     summary: 현재 또는 예상 용량이 낮은 클러스터를 식별하고 데이터 계층화 또는 추가 용량 권장 사항을 구현합니다.
     tags: all,governance
   - title: 에지 캐싱(글로벌 파일 캐시)
     icon: "./media/icon-cache.png"
-    url: https://docs.netapp.com/us-en/bluexp-edge-caching/index.html
+    url: "../bluexp-edge-caching/index.html"
     summary: 분산된 인력을 위해 글로벌 파일을 실시간으로 공유할 수 있습니다.
     tags: all,mobility,aws,azure,gcp
   - title: Google 클라우드 스토리지
     icon: "./media/icon-google-cloud-storage.png"
-    url: https://docs.netapp.com/us-en/bluexp-google-cloud-storage/index.html
+    url: "../bluexp-google-cloud-storage/index.html"
     summary: Google 계정에서 클라우드 스토리지 버킷 검색 및 관리
     tags: all,storage
   - title: Kubernetes 클러스터
     icon: "./media/icon-kubernetes.png"
-    url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
+    url: "../bluexp-kubernetes/index.html"
     summary: 하이브리드 클라우드의 Kubernetes 클러스터의 고급 데이터 관리
     tags: all,storage,aws,azure
   - title: 마이그레이션 보고서
     icon: "./media/icon-reports.png"
-    url: https://docs.netapp.com/us-en/bluexp-reports/index.html
+    url: "../bluexp-reports/index.html"
     summary: 스토리지 환경에서 파일 수, 파일 시스템 트리의 깊이 및 폭, 가장 큰 파일 등을 식별합니다.
     tags: all,storage
   - title: 온프레미스 ONTAP 클러스터
     icon: "./media/icon-onprem.png"
-    url: https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html
+    url: "../bluexp-ontap-onprem/index.html"
     summary: 시스템 관리자 및 BlueXP의 데이터 서비스를 사용하여 BlueXP에서 NetApp AFF 및 FAS 시스템을 관리하십시오.
     tags: all,storage
   - title: 운영 복원력
     icon: "./media/icon-op-resiliency.png"
-    url: https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html
+    url: "../bluexp-operational-resiliency/index.html"
     summary: ONTAP 클러스터의 상태를 유지하기 위해 자동 펌웨어 및 소프트웨어 구성 위험 수정 기능을 구현합니다.
     tags: all,health
   - title: 개선(AppTemplate)
     icon: "./media/icon-app-template.png"
-    url: https://docs.netapp.com/us-en/bluexp-remediation/index.html
+    url: "../bluexp-remediation/index.html"
     summary: BlueXP의 작업을 자동화하여 프로비저닝 속도를 높이고 수동 작업을 제거합니다.
     tags: all,health
   - title: 복제
     icon: "./media/icon-replication.png"
-    url: https://docs.netapp.com/us-en/bluexp-replication/index.html
+    url: "../bluexp-replication/index.html"
     summary: 스토리지 시스템 간에 데이터를 복제하여 백업 및 재해 복구 지원
     tags: all,protection
   - title: StorageGRID
     icon: "./media/icon-storagegrid.png"
-    url: https://docs.netapp.com/us-en/bluexp-storagegrid/index.html
+    url: "../bluexp-storagegrid/index.html"
     summary: StorageGRID 시스템을 검색하고 관리합니다.
     tags: all,storage
   - title: Sustainability 대시보드
     icon: "./media/icon-sustainability.png"
-    url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
+    url: "../active-iq/learn_BlueXP_sustainability.html"
     summary: 스토리지 시스템의 지속 가능성을 분석합니다.
     tags: all,governance
   - title: 계층화(Cloud Tiering)
     icon: "./media/icon-tiering.png"
-    url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
+    url: "../bluexp-tiering/index.html"
     summary: 사내 ONTAP 스토리지를 클라우드로 확장
     tags: all,aws,azure,gcp,mobility
   - title: 볼륨 캐싱
     icon: "./media/icon-volume-caching.png"
-    url: https://docs.netapp.com/us-en/bluexp-volume-caching/index.html
+    url: "../bluexp-volume-caching/index.html"
     summary: 쓰기 가능한 캐시 볼륨을 생성하여 데이터 액세스 속도를 높이거나 자주 액세스하는 볼륨에서 트래픽을 오프로드합니다.
     tags: all,mobility
