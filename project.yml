@@ -37,11 +37,6 @@ product-family:
   - title: 스토리지
     tags: storage
   tiles:
-  - title: BlueXP를 시작합니다
-    icon: "./media/icon-docs.png"
-    url: concept-overview.html
-    summary: BlueXP의 소개에 대해 자세히 알아보십시오.
-    tags: all
   - title: 설정 및 관리
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
@@ -82,17 +77,17 @@ product-family:
     url: "../bluexp-azure-netapp-files/index.html"
     summary: 핵심 비즈니스 애플리케이션을 위한 고성능 파일 스토리지 서비스입니다.
     tags: all,storage,azure
-  - title: 백업 및 복구(Cloud Backup)
+  - title: 백업 및 복구
     icon: "./media/icon-backup.png"
     url: "../bluexp-backup-recovery/index.html"
     summary: 클라우드 및 온프레미스 데이터 백업 및 복원
     tags: all,aws,azure,gcp,protection
-  - title: 분류(클라우드 데이터 감지)
+  - title: 분류
     icon: "./media/icon-data-sense.png"
     url: "../bluexp-classification/index.html"
     summary: 애플리케이션 데이터 및 클라우드 환경의 개인 정보를 보호합니다.
     tags: all,governance,aws,azure,gcp
-  - title: 클라우드 운영(컴퓨팅)
+  - title: 클라우드 운영
     icon: "./media/icon-compute.png"
     url: "../bluexp-cloud-ops/index.html"
     summary: 클라우드 컴퓨팅 지출에 대한 가시성을 확보하고 잠재적 절감을 파악하십시오.
@@ -107,7 +102,7 @@ product-family:
     url: "../bluexp-cloud-volumes-service-gcp/index.html"
     summary: 파일 스토리지를 보호하고 속도를 높이십시오.
     tags: all,storage,gcp
-  - title: 복사 및 동기화(Cloud Sync)
+  - title: 복사 및 동기화
     icon: "./media/icon-sync.png"
     url: "../bluexp-copy-sync/index.html"
     summary: 온프레미스 및 클라우드 데이터 저장소 간에 데이터를 동기화합니다.
@@ -138,7 +133,7 @@ product-family:
     url: "../bluexp-economic-efficiency/index.html"
     summary: 현재 또는 예상 용량이 낮은 클러스터를 식별하고 데이터 계층화 또는 추가 용량 권장 사항을 구현합니다.
     tags: all,governance
-  - title: 에지 캐싱(글로벌 파일 캐시)
+  - title: 에지 캐싱
     icon: "./media/icon-cache.png"
     url: "../bluexp-edge-caching/index.html"
     summary: 분산된 인력을 위해 글로벌 파일을 실시간으로 공유할 수 있습니다.
@@ -168,7 +163,7 @@ product-family:
     url: "../bluexp-operational-resiliency/index.html"
     summary: ONTAP 클러스터의 상태를 유지하기 위해 자동 펌웨어 및 소프트웨어 구성 위험 수정 기능을 구현합니다.
     tags: all,health
-  - title: 개선(AppTemplate)
+  - title: 해결
     icon: "./media/icon-app-template.png"
     url: "../bluexp-remediation/index.html"
     summary: BlueXP의 작업을 자동화하여 프로비저닝 속도를 높이고 수동 작업을 제거합니다.
@@ -188,7 +183,7 @@ product-family:
     url: "../active-iq/learn_BlueXP_sustainability.html"
     summary: 스토리지 시스템의 지속 가능성을 분석합니다.
     tags: all,governance
-  - title: 계층화(Cloud Tiering)
+  - title: 계층화
     icon: "./media/icon-tiering.png"
     url: "../bluexp-tiering/index.html"
     summary: 사내 ONTAP 스토리지를 클라우드로 확장

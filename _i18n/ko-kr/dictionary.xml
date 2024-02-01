@@ -70,22 +70,6 @@
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp이 처음이었습니다</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">NetApp의 새로운 브랜드이고 NSS 계정이 없는 경우 아래의 각 단계를 수행하십시오.</block>
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">고객 수준 계정이 있는 경우 하나 이상의 NSS 계정을 추가할 수 있습니다.</block>
-  <block id="a0d9a83eb0552b7cc89c8d441a15ede1" category="doc">NetApp BlueXP를 사용해 주셔서 감사합니다</block>
-  <block id="4860911c5c67c5e04987564884e8b85e" category="section-title">통합된 관리 환경</block>
-  <block id="c3eb39b445a75ad05505fe32c6f061df" category="paragraph">BlueXP를 사용하면 단일 인터페이스에서 모든 스토리지 및 데이터 자산을 관리할 수 있습니다.</block>
-  <block id="fc8ff23d0bf81d0f8427b5c75023f80e" category="inline-link">자세한 내용은 BlueXP 웹 사이트를 참조하십시오</block>
-  <block id="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="list-text"><block ref="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="inline-link-rx"></block></block>
-  <block id="61b173efd5c260fd3e3f446d9d4b37e7" category="inline-link">BlueXP를 시작하십시오</block>
-  <block id="31f0834695d820dc381e57397e466d12" category="section-title">새 탐색 메뉴</block>
-  <block id="7cb04a79785e33be744a126127319a35" category="inline-image-macro">스토리지 및 상태 등의 범주를 보여 주는 BlueXP의 탐색 메뉴 스크린샷</block>
-  <block id="e3a2069a256a46b571b57fe46324f5c0" category="paragraph"><block ref="e3a2069a256a46b571b57fe46324f5c0" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="68d4f3d7366b4ea59a65f0c44540e368" category="section-title">새로운 제품 통합</block>
-  <block id="054332983ba253fe4573945dcdbc8109" category="list-text">이제 E-Series와 StorageGRID와 같은 사내 스토리지 시스템을 더 많이 관리할 수 있습니다.</block>
-  <block id="7a58e46486e93797ee672a65eac3170f" category="paragraph">* 자세히 알아보기 *</block>
-  <block id="23c19e9851a45bd1a62c97b5c51e16ab" category="inline-link">E-Series 스토리지 시스템을 관리합니다</block>
-  <block id="280f0ea2e556e240b5f15b51047b45b8" category="inline-link">StorageGRID 스토리지 시스템을 관리합니다</block>
-  <block id="f3bb3ec21babd88d81e5f7aefe69cced" category="inline-link">Digital Advisor 통합에 대해 알아보십시오</block>
-  <block id="fd93e0ac3cede5691afd22e4d95042e3" category="list-text"><block ref="fd93e0ac3cede5691afd22e4d95042e3" category="inline-link-rx"></block></block>
   <block id="eeb8e055593f1709925a03e2ebb13265" category="doc">BlueXP 설명서</block>
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp은 다양한 방법으로 BlueXP 및 클라우드 서비스를 지원합니다. 기술 자료(KB) 기사 및 커뮤니티 포럼과 같은 광범위한 무료 셀프 지원 옵션이 24x7 제공됩니다. 지원 등록에는 웹 티켓팅을 통한 원격 기술 지원이 포함됩니다.</block>
   <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">문제를 해결하는 데 도움이 되는 문서를 찾으려면 BlueXP 기술 자료를 검색하십시오.</block>
@@ -110,8 +94,6 @@
   <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">이동성</block>
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">보호</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">스토리지</block>
-  <block id="acef5d51685932cc367c2b457797c936" category="sidebar">BlueXP를 시작합니다</block>
-  <block id="4d76faa1554725dd328ee6ba5b97a819" category="sidebar">BlueXP의 소개에 대해 자세히 알아보십시오.</block>
   <block id="679d45f8d9939047ac9efb03e95c425c" category="sidebar">BlueXP 사용을 시작하고 커넥터, 계정 등을 관리하는 방법에 대해 알아보십시오.</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">모든 BlueXP의 새로운 기능에 대해 알아보십시오.</block>
   <block id="9b125025fd2aeab175107728e40c19f1" category="sidebar">BlueXP의 작업을 자동화하여 프로비저닝 속도를 높이고 수동 작업을 제거합니다.</block>
@@ -148,9 +130,6 @@
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">기존 고객 수준 NSS 계정이 있는 경우에도 마찬가지이며 파트너 수준 계정을 추가하려고 합니다.</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">로그인에 성공하면 NetApp은 NSS 사용자 이름을 저장합니다.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">이 옵션을 사용하면 다시 로그인하라는 메시지가 표시됩니다. 이러한 계정의 토큰은 90일 후에 만료됩니다. 이를 알리는 알림이 게시됩니다.</block>
-  <block id="cf6a3994dac804af910024cf740e14ac" category="list-text">이제 Connector가 설치된 AWS 계정에서 Amazon S3 버킷을 관리할 수 있습니다.</block>
-  <block id="72098f7f145b12a125b92539edd37f4a" category="inline-link">Amazon S3 버킷을 관리합니다</block>
-  <block id="8a4a49cb4536baac7f58e0eb6e2dac29" category="list-text"><block ref="8a4a49cb4536baac7f58e0eb6e2dac29" category="inline-link-rx"></block></block>
   <block id="d79294e72dc3584cc12c98a7a931315d" category="sidebar">Amazon S3 스토리지</block>
   <block id="4b271c8c28b8ccb8e638e54186acac01" category="sidebar">AWS 계정에서 Amazon S3 버킷을 검색하고 관리합니다.</block>
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">* 첨부 파일(선택 사항) *: 한 번에 하나씩 최대 5개의 첨부 파일을 업로드합니다.</block>
@@ -160,28 +139,13 @@
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">현재 또는 예상 용량이 낮은 클러스터를 식별하고 데이터 계층화 또는 추가 용량 권장 사항을 구현합니다.</block>
   <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">운영 복원력</block>
   <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">ONTAP 클러스터의 상태를 유지하기 위해 자동 펌웨어 및 소프트웨어 구성 위험 수정 기능을 구현합니다.</block>
-  <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXP는 Cloud Manager의 발전입니다. BlueXP는 사내 및 클라우드 환경 전반에 걸쳐 스토리지 및 데이터 서비스를 위한 하이브리드 멀티 클라우드 환경을 제공하는 통합 제어 플레인입니다.</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">온프레미스 ONTAP 클러스터</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">설정 및 관리</block>
   <block id="5928ade999566a2ca0d839d3c191b3f1" category="sidebar">라이센스 및 구독을 관리 및 모니터링합니다.</block>
-  <block id="bd4152637ad88c0eb060a24cddfba1f9" category="summary">NetApp BlueXP(Cloud Manager)는 사내 및 클라우드 환경 전반에서 데이터를 구축, 보호, 제어할 수 있는 단일 제어 계층을 제공합니다. 제품 영역별로 문서를 검색하거나 위의 검색을 사용하여 BlueXP 문서의 모든 위치에서 콘텐츠를 찾을 수 있습니다.</block>
   <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">NetApp ONTAP용 Amazon FSx</block>
-  <block id="1220376b19b37830a4bf0ca859f13117" category="sidebar">백업 및 복구(Cloud Backup)</block>
-  <block id="ab3c79949a956f4792a7697fdb989ee5" category="sidebar">분류(클라우드 데이터 감지)</block>
-  <block id="050e5016f7040ceedbd80731cdf796db" category="sidebar">클라우드 운영(컴퓨팅)</block>
-  <block id="2b09a63dc379266e4ddebf30644e5566" category="sidebar">복사 및 동기화(Cloud Sync)</block>
   <block id="457d79994b70adbf238bafd0fea18cb2" category="sidebar">디지털 자문업체(Active IQ)</block>
   <block id="2049421a4e8e45e83cd7cf18ffc00a12" category="sidebar">디지털 지갑</block>
-  <block id="283a34872fecedd9a307e184eaf214e5" category="sidebar">에지 캐싱(글로벌 파일 캐시)</block>
-  <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">개선(AppTemplate)</block>
-  <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">계층화(Cloud Tiering)</block>
-  <block id="75d46f12940616f043309dfb109d814d" category="paragraph">BlueXP의 탐색 메뉴에서 서비스는 범주별로 구성되며 기능에 따라 이름이 지정됩니다. 예를 들어 * Protection * 범주에서 BlueXP 백업 및 복구(Cloud Backup)에 액세스할 수 있습니다.</block>
-  <block id="bcaa38b35b3f595027217ec10755368a" category="list-text">이제 BlueXP Active IQ(Digital Advisor)와 같은 별도의 UI를 통해 이전에는 독립 실행형 서비스로만 제공되던 데이터 서비스를 사용할 수 있습니다.</block>
-  <block id="a28e6578744ceeb545878235d414e497" category="paragraph">BlueXP를 사용하여 클라우드 스토리지(예: Cloud Volumes ONTAP 및 Azure NetApp Files)를 생성 및 관리하고, 데이터를 이동, 보호 및 분석하며, 많은 사내 및 에지 스토리지 장치를 제어할 수 있습니다.</block>
-  <block id="5995a098ad9262cdb440548d6600934f" category="list-text"><block ref="5995a098ad9262cdb440548d6600934f" category="inline-link-rx"></block></block>
-  <block id="120b07a98eececd322e53cecc2102f44" category="list-text"><block ref="120b07a98eececd322e53cecc2102f44" category="inline-link-rx"></block></block>
-  <block id="e85444ee57c2061143502fa15b083bcc" category="list-text"><block ref="e85444ee57c2061143502fa15b083bcc" category="inline-link-rx"></block></block>
   <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
   <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
@@ -253,4 +217,12 @@
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">클라우드 공급자의 파일 서비스, 자체 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원은 해당 제품의 BlueXP 설명서에서 "도움말 얻기"를 참조하십시오.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">BlueXP 및 해당 스토리지 솔루션 및 서비스에 관한 기술 지원을 받으려면 아래에 설명된 지원 옵션을 사용하십시오.</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp는 지원 및 라이센스와 관련된 인증 서비스의 ID 공급자로 Microsoft Entra ID를 사용합니다.</block>
+  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP는 사내 및 클라우드 환경 전반에서 데이터를 구축, 보호, 제어할 수 있는 단일 제어 수단을 조직에 제공합니다. 제품 영역별로 문서를 검색하거나 위의 검색을 사용하여 BlueXP 문서의 모든 위치에서 콘텐츠를 찾을 수 있습니다.</block>
+  <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">백업 및 복구</block>
+  <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">분류</block>
+  <block id="5b942e8f71976a7f4120006aa3ac54cc" category="sidebar">클라우드 운영</block>
+  <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">복사 및 동기화</block>
+  <block id="ba695b3cf8b635f89946173735838948" category="sidebar">에지 캐싱</block>
+  <block id="282baca6aef56652f503adce6afa9f07" category="sidebar">해결</block>
+  <block id="337c62c6b6eb7319bae58701105e889c" category="sidebar">계층화</block>
 </blocks>
