@@ -157,11 +157,6 @@ product-family:
     url: "../bluexp-ransomware-protection/index.html"
     summary: 랜섬웨어 공격을 유발할 수 있는 이상 징후를 감지합니다. 워크로드를 보호하고 복구합니다.
     tags: all,protection
-  - title: 해결
-    icon: "./media/icon-app-template.png"
-    url: "../bluexp-remediation/index.html"
-    summary: BlueXP의 작업을 자동화하여 프로비저닝 속도를 높이고 수동 작업을 제거합니다.
-    tags: all,health
   - title: 복제
     icon: "./media/icon-replication.png"
     url: "../bluexp-replication/index.html"
