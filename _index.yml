@@ -11,7 +11,7 @@ product-family:
     class: active
   - title: API를 참조하십시오
     tags: api
-  - title: 커넥터 및 계정
+  - title: 커넥터 및 IAM
     tags: admin
   - title: 확장자
     tags: extension
@@ -21,6 +21,8 @@ product-family:
     tags: health
   - title: 이동성
     tags: mobility
+  - title: 모니터링
+    tags: monitoring
   - title: 보호
     tags: protection
   - title: 스토리지
@@ -29,13 +31,18 @@ product-family:
   - title: 설정 및 관리
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
-    summary: BlueXP 사용을 시작하고 커넥터, 계정 등을 관리하는 방법에 대해 알아보십시오.
+    summary: BlueXP  사용을 시작하고 ID 및 액세스 관리, 커넥터 등을 관리하는 방법에 대해 알아봅니다.
     tags: all,admin
   - title: 릴리스 정보
     icon: "./media/icon-docs.png"
     url: "../bluexp-relnotes/index.html"
     summary: 모든 BlueXP의 새로운 기능에 대해 알아보십시오.
     tags: all
+  - title: 경고
+    icon: "./media/icon-alerts.png"
+    url: "../bluexp-alerts/index.html"
+    summary: ONTAP 환경에서 용량, 가용성, 성능, 보호 및 보안과 관련된 문제를 확인할 수 있습니다.
+    tags: all,monitoring
   - title: NetApp ONTAP용 Amazon FSx
     icon: "./media/icon-fsx.png"
     url: "../bluexp-fsx-ontap/index.html"
