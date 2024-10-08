@@ -11,14 +11,16 @@ product-family:
     class: active
   - title: API를 참조하십시오
     tags: api
-  - title: 커넥터 및 IAM
-    tags: admin
+  - title: 커넥터
+    tags: connectors
   - title: 확장자
     tags: extension
   - title: 기대치를 설정합니다
     tags: governance
   - title: 상태
     tags: health
+  - title: ID 및 액세스 관리
+    tags: iam
   - title: 이동성
     tags: mobility
   - title: 모니터링
@@ -32,7 +34,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
     summary: BlueXP  사용을 시작하고 ID 및 액세스 관리, 커넥터 등을 관리하는 방법에 대해 알아봅니다.
-    tags: all,admin
+    tags: all,connectors,iam
   - title: 릴리스 정보
     icon: "./media/icon-docs.png"
     url: "../bluexp-relnotes/index.html"

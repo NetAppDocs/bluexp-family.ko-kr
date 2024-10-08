@@ -219,9 +219,10 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Cloud Volumes ONTAP에서 다음과 같은 주요 워크플로우를 사용하려면 NetApp 지원 사이트 자격 증명을 BlueXP  조직과 연결해야 합니다.</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">NSS 자격 증명을 BlueXP  조직과 연결하는 것은 BlueXP  사용자 로그인과 연결된 NSS 계정과 다릅니다.</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">이러한 NSS 자격 증명은 특정 BlueXP  조직 ID와 연결됩니다. BlueXP  조직에 속한 사용자는 * 지원 &gt; NSS 관리 * 에서 이러한 자격 증명에 액세스할 수 있습니다.</block>
-  <block id="9dab50acf79061ac1750da73c6252b67" category="sidebar">커넥터 및 IAM</block>
   <block id="423e555c5ec3885f2bb5d9d2d6627f63" category="sidebar">모니터링</block>
   <block id="a0174df45f2d1f45e08cc7d39acff81f" category="sidebar">BlueXP  사용을 시작하고 ID 및 액세스 관리, 커넥터 등을 관리하는 방법에 대해 알아봅니다.</block>
   <block id="df583ae7ba964fd4806b55904da81813" category="sidebar">경고</block>
   <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">ONTAP 환경에서 용량, 가용성, 성능, 보호 및 보안과 관련된 문제를 확인할 수 있습니다.</block>
+  <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">커넥터</block>
+  <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">ID 및 액세스 관리</block>
 </blocks>
