@@ -88,7 +88,6 @@
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">보호</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">스토리지</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">모든 BlueXP의 새로운 기능에 대해 알아보십시오.</block>
-  <block id="19874606c485ce682436c45308e50186" category="sidebar">시스템 관리자 및 BlueXP의 데이터 서비스를 사용하여 BlueXP에서 NetApp AFF 및 FAS 시스템을 관리하십시오.</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">시작하기 전에</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">작업을 마친 후</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="doc">자체 지원 옵션을 사용합니다</block>
@@ -225,4 +224,5 @@
   <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">ONTAP 환경에서 용량, 가용성, 성능, 보호 및 보안과 관련된 문제를 확인할 수 있습니다.</block>
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">커넥터</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">ID 및 액세스 관리</block>
+  <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">System Manager와 BlueXP 의 데이터 서비스를 사용하여 BlueXP 에서 온프레미스 ONTAP 클러스터를 관리합니다.</block>
 </blocks>

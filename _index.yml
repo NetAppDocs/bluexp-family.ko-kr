@@ -139,7 +139,7 @@ product-family:
   - title: 온프레미스 ONTAP 클러스터
     icon: "./media/icon-onprem.png"
     url: "../bluexp-ontap-onprem/index.html"
-    summary: 시스템 관리자 및 BlueXP의 데이터 서비스를 사용하여 BlueXP에서 NetApp AFF 및 FAS 시스템을 관리하십시오.
+    summary: System Manager와 BlueXP 의 데이터 서비스를 사용하여 BlueXP 에서 온프레미스 ONTAP 클러스터를 관리합니다.
     tags: all,storage
   - title: 운영 복원력
     icon: "./media/icon-op-resiliency.png"
