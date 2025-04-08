@@ -15,7 +15,6 @@
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API를 참조하십시오</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">클라우드 기반 리소스를 프로그래밍 방식으로 관리합니다.</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files</block>
-  <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">핵심 비즈니스 애플리케이션을 위한 고성능 파일 스토리지 서비스입니다.</block>
   <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">클라우드 및 온프레미스 데이터 백업 및 복원</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">애플리케이션 데이터 및 클라우드 환경의 개인 정보를 보호합니다.</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">온프레미스 및 클라우드 데이터 저장소 간에 데이터를 동기화합니다.</block>
@@ -24,7 +23,6 @@
   <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">클라우드 스토리지를 보다 경제적이고, 지능적이며, 규정을 준수하고, 안전하게 보호하십시오.</block>
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="sidebar">Google Cloud용 Cloud Volumes Service</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">파일 스토리지를 보호하고 속도를 높이십시오.</block>
-  <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">클라우드 컴퓨팅 지출에 대한 가시성을 확보하고 잠재적 절감을 파악하십시오.</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">복제</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">스토리지 시스템 간에 데이터를 복제하여 백업 및 재해 복구 지원</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">모두</block>
@@ -201,7 +199,6 @@
   <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP는 사내 및 클라우드 환경 전반에서 데이터를 구축, 보호, 제어할 수 있는 단일 제어 수단을 조직에 제공합니다. 제품 영역별로 문서를 검색하거나 위의 검색을 사용하여 BlueXP 문서의 모든 위치에서 콘텐츠를 찾을 수 있습니다.</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">백업 및 복구</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">분류</block>
-  <block id="5b942e8f71976a7f4120006aa3ac54cc" category="sidebar">클라우드 운영</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">복사 및 동기화</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="sidebar">계층화</block>
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">랜섬웨어 보호</block>
@@ -227,4 +224,5 @@
   <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">System Manager와 BlueXP 의 데이터 서비스를 사용하여 BlueXP 에서 온프레미스 ONTAP 클러스터를 관리합니다.</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">워크로드</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Amazon FSx for NetApp ONTAP를 사용하여 주요 워크로드를 설계, 설정 및 운영할 수 있습니다.</block>
+  <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">핵심 비즈니스 애플리케이션을 위한 Azure의 고성능 파일 스토리지 서비스</block>
 </blocks>

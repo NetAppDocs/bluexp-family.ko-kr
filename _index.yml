@@ -75,7 +75,7 @@ product-family:
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
     url: "../bluexp-azure-netapp-files/index.html"
-    summary: 핵심 비즈니스 애플리케이션을 위한 고성능 파일 스토리지 서비스입니다.
+    summary: 핵심 비즈니스 애플리케이션을 위한 Azure의 고성능 파일 스토리지 서비스
     tags: all,storage,azure
   - title: 백업 및 복구
     icon: "./media/icon-backup.png"
@@ -87,11 +87,6 @@ product-family:
     url: "../bluexp-classification/index.html"
     summary: 애플리케이션 데이터 및 클라우드 환경의 개인 정보를 보호합니다.
     tags: all,governance,aws,azure,gcp
-  - title: 클라우드 운영
-    icon: "./media/icon-compute.png"
-    url: "../bluexp-cloud-ops/index.html"
-    summary: 클라우드 컴퓨팅 지출에 대한 가시성을 확보하고 잠재적 절감을 파악하십시오.
-    tags: all,aws,extension
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: "../bluexp-cloud-volumes-ontap/index.html"
