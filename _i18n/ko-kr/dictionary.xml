@@ -79,7 +79,6 @@
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">지원 등록 페이지에서 계정 ID 일련 번호를 찾습니다.</block>
   <block id="50a1dc01b7312307c34a888071586955" category="list-text">위의 2단계에서 계정의 일련 번호를 복사하고 보안 검색을 완료한 다음 NetApp의 글로벌 데이터 개인 정보 보호 정책을 읽는지 확인합니다.</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">모든 BlueXP 설명서</block>
-  <block id="5e2f5f3c24ae8c6ab3eca618826b0e23" category="sidebar">확장자</block>
   <block id="5a935787d6f091fc760443ab4c491465" category="sidebar">기대치를 설정합니다</block>
   <block id="605669cab962bf944d99ce89cf9e58d9" category="sidebar">상태</block>
   <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">이동성</block>
@@ -196,7 +195,6 @@
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">클라우드 공급자의 파일 서비스, 자체 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원은 해당 제품의 BlueXP 설명서에서 "도움말 얻기"를 참조하십시오.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">BlueXP 및 해당 스토리지 솔루션 및 서비스에 관한 기술 지원을 받으려면 아래에 설명된 지원 옵션을 사용하십시오.</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp는 지원 및 라이센스와 관련된 인증 서비스의 ID 공급자로 Microsoft Entra ID를 사용합니다.</block>
-  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP는 사내 및 클라우드 환경 전반에서 데이터를 구축, 보호, 제어할 수 있는 단일 제어 수단을 조직에 제공합니다. 제품 영역별로 문서를 검색하거나 위의 검색을 사용하여 BlueXP 문서의 모든 위치에서 콘텐츠를 찾을 수 있습니다.</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">백업 및 복구</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">분류</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">복사 및 동기화</block>
@@ -225,4 +223,7 @@
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">워크로드</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">Amazon FSx for NetApp ONTAP를 사용하여 주요 워크로드를 설계, 설정 및 운영할 수 있습니다.</block>
   <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">핵심 비즈니스 애플리케이션을 위한 Azure의 고성능 파일 스토리지 서비스</block>
+  <block id="61c23fb0066e4005db4fe5ccd0835180" category="sidebar">NetApp BlueXP는 사내 및 클라우드 환경 전반에서 데이터를 구축, 보호, 제어할 수 있는 단일 제어 수단을 조직에 제공합니다. 제품 영역별로 문서를 찾아보거나 위의 검색을 사용하여 콘텐츠를 찾으세요.</block>
+  <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">키스톤</block>
+  <block id="70a67804758eee026e9f460e64b2c1d7" category="sidebar">BlueXP에서 Keystone 구독에 액세스하고 관리하세요.</block>
 </blocks>
