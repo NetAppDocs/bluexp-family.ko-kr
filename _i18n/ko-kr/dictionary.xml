@@ -226,4 +226,5 @@
   <block id="61c23fb0066e4005db4fe5ccd0835180" category="sidebar">NetApp BlueXP는 사내 및 클라우드 환경 전반에서 데이터를 구축, 보호, 제어할 수 있는 단일 제어 수단을 조직에 제공합니다. 제품 영역별로 문서를 찾아보거나 위의 검색을 사용하여 콘텐츠를 찾으세요.</block>
   <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">키스톤</block>
   <block id="70a67804758eee026e9f460e64b2c1d7" category="sidebar">BlueXP에서 Keystone 구독에 액세스하고 관리하세요.</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="sidebar">Google Cloud NetApp 볼륨</block>
 </blocks>
